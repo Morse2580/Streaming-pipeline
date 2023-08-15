@@ -1,0 +1,28 @@
+{
+  "sparkConfig": {
+    "master": "local[*]",
+    "appName":  "Stream Processor",
+    "max_offsets_per_trigger":  "1000",
+    "shuffle_partitions":  "2",
+    "deprecated_offsets":  "false"
+  },
+  "kafkaConfig": {
+    "server": "localhost",
+    "port":  "9092",
+    "topic": "raw-live-trades",
+    "min_partitions": "1"
+  },
+  "cassandraConfig": {
+    "host": "127.0.0.1",
+    "user": "cassandra",
+    "password": "cassandra",
+    "keyspace": "market",
+    "cassandraTables": {
+      "trades": "trades",
+      "aggregates": "running_averages_15_sec"
+    }
+  },
+  "schema": "/schemas/trades.asvc",
+  "resource_path": "/config/master-configuration.json"
+}
+
