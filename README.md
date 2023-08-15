@@ -8,7 +8,7 @@ The repo is based of an idea of decomposing Large Scale Data Systems. The premis
 ---
 ### Architecture and concepts
 This concept is inspired by [Aurimas Griciūnas](https://www.linkedin.com/in/aurimas-griciunas/). 
-You can subscribe to his newsletter, real-world data engineering and machine learning systems. (not sponsored!)
+You can subscribe to his newsletter, He offers valuable information on real-world data engineering and MLOps systems. (not sponsored!)
 
 ![aurimas.png](readme-images%2Faurimas.png)
 
