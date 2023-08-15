@@ -16,7 +16,7 @@ You can subscribe to his newsletter, He offers valuable information on real-worl
 
 ---
 ### Project inspiration
-The project itself is inspired by @The-Algorist,
+The project itself is inspired by [TheAlgorist](https://github.com/The-Algorist/finnhub-streaming-data-pipeline/tree/main),
 He carefully crafts his code, in an understandable manner.
 
 ![algoris.png](readme-images%2Falgoris.png)
