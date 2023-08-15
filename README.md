@@ -16,7 +16,7 @@ You can subscribe to his newsletter, He offers valuable information on real-worl
 
 ---
 ### Project inspiration
-The project itself is inspired by @TheAlgorist,
+The project itself is inspired by @The-Algorist,
 He carefully crafts his code, in an understandable manner.
 
 ![algoris.png](readme-images%2Falgoris.png)
