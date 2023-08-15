@@ -25,7 +25,7 @@ He carefully crafts his code, in an understandable manner.
 ---
 
 `NB: Architecture will be broken down within each module of the project`
-- `The initial step will be to deploy the application locally`
-- `Ònce I have successfully deployed the project locally, I can the deploy it on a cloud provider using Pulumi for Iac`
+- The initial step will be to deploy the application locally
+- Ònce I have successfully deployed the project locally, I can the deploy it on a cloud provider using [Pulumi](https://www.pulumi.com/docs/) for Iac
 
 
