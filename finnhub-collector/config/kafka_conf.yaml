@@ -1,0 +1,3 @@
+KAFKA_SERVER: "localhost"
+KAFKA_PORT: '9092'
+KAFKA_TOPIC_NAME: "raw-live-trades"
